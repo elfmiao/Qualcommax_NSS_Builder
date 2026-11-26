@@ -1,0 +1,26 @@
+{
+ "latest": "ppe-nss-20261126T081618Z-45780217191",
+ "releases": [
+  {
+   "tag": "ppe-nss-20261126T081618Z-45780217191",
+   "time": 1795693725,
+   "groups": [
+    "ipq807x-6m-kernel"
+   ]
+  }
+ ],
+ "flavours": {
+  "ppe-nss": {
+   "latest": "ppe-nss-20261126T081618Z-45780217191",
+   "releases": [
+    {
+     "tag": "ppe-nss-20261126T081618Z-45780217191",
+     "time": 1795693725,
+     "groups": [
+      "ipq807x-6m-kernel"
+     ]
+    }
+   ]
+  }
+ }
+}
